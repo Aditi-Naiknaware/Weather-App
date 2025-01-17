@@ -1,4 +1,4 @@
-let apiKey = "0691db89ffb2edd7d082b65cdafd904d";
+let apiKey = "YOUR_API_KEY";
 let searchinput = document.querySelector(".searchinput");
 let box = document.querySelector(".box");
 let normalMessage = document.querySelector(".normal-message");

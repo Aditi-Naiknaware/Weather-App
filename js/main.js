@@ -1,4 +1,4 @@
-let apiKey = "0691db89ffb2edd7d082b65cdafd904d";
+let apiKey = "YOUR_API_KEY";
 
 navigator.geolocation.getCurrentPosition(async function (position) {
    
